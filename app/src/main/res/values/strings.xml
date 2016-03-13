@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">家庭理财通</string>
+    <string name="login">系统登录</string>
+    <string name="addoutaccount">新增支出</string>
+    <string name="addinaccount">新增收入</string>
+    <string name="outaccountinfo">我的支出</string>
+    <string name="inaccountinfo">我的收入</string>
+    <string name="showinfo">数据管理</string>
+    <string name="sysset">系统设置</string>
+    <string name="accountflag">收支便签</string>
+    <string name="infomanage">收支管理</string>
+    <string name="flagmanage">便签管理</string>
+
+        <string-array name="outtype">
+            <item>早餐</item>
+            <item>午餐</item>
+            <item>晚餐</item>
+            <item>夜宵</item>
+            <item>买菜</item>
+            <item>随礼</item>
+            <item>应酬</item>
+            <item>打的</item>
+            <item>其他</item>
+        </string-array>
+        <string-array name="intype">
+            <item>工资</item>
+            <item>兼职</item>
+            <item>股票</item>
+            <item>基金</item>
+            <item>分红</item>
+            <item>利息</item>
+            <item>奖金</item>
+            <item>补贴</item>
+            <item>礼金</item>
+            <item>租金</item>
+            <item>应收款</item>
+            <item>销售款</item>
+            <item>报销款</item>
+            <item>其他</item>
+        </string-array>
+        <string-array name="type">
+            <item>早餐</item>
+            <item>午餐</item>
+            <item>晚餐</item>
+            <item>夜宵</item>
+            <item>买菜</item>
+            <item>随礼</item>
+            <item>应酬</item>
+            <item>打的</item>
+            <item>工资</item>
+            <item>兼职</item>
+            <item>股票</item>
+            <item>基金</item>
+            <item>分红</item>
+            <item>利息</item>
+            <item>奖金</item>
+            <item>补贴</item>
+            <item>礼金</item>
+            <item>租金</item>
+            <item>应收款</item>
+            <item>销售款</item>
+            <item>报销款</item>
+            <item>其他</item>
+        </string-array>
+
+</resources>
